@@ -1,4 +1,5 @@
 `# Dictionary API Project`
+
 This project utilizes the DictionaryAPI.dev API to allow users to look up words and access their definitions along with audio pronunciation.
 
 `# Features`
