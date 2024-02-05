@@ -1,8 +1,20 @@
-# React + Vite
+#Dictionary API Project
+This project utilizes the DictionaryAPI.dev API to allow users to look up words and access their definitions along with audio pronunciation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features
+Word Lookup: Users can search for a word to get its definition.
+Definition: Each word searched displays its definition.
+Audio Pronunciation: Users can listen to the pronunciation of the word.
+#Technologies Used
+React
+JavaScript
+HTML
+CSS
 
-Currently, two official plugins are available:
+#Usage
+Enter a word in the search bar and press Enter or click the search button.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The definition of the word will be displayed along with an option to listen to its pronunciation.
+
+#API Usage
+This project utilizes the DictionaryAPI.dev API to fetch word definitions and audio pronunciations.
