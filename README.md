@@ -17,5 +17,5 @@ This project utilizes the DictionaryAPI.dev API to allow users to look up words 
 Enter a word in the search bar and press Enter or click the search button.
 The definition of the word will be displayed along with an option to listen to its pronunciation.
 
-`# API Usage`
-This project utilizes the DictionaryAPI.dev API to fetch word definitions and audio pronunciations.
+`# Live Demo:`
+https://lucky-kheer-1c28d1.netlify.app/
